@@ -2,7 +2,17 @@
 
 **Find the breach. Fix the gaps. Forge stronger defenses.**
 
-I'm Steven Drew, a Senior Systems Administrator with 15+ years in IT, from the repair bench to running a Microsoft Azure hybrid enterprise of 30,000+ users and endpoints. I'm moving into DFIR (digital forensics and incident response) and bug bounty work, and I run ForgeVanguard Cyber Consulting.
+I help organizations strengthen their security through practical penetration testing, vulnerability research, and compliance-focused assessments, drawing on active experience across major bug bounty platforms. Through ForgeVanguard Cyber Consulting I also deliver website design, development, and maintenance alongside broader IT support.
+
+## Services
+- Web Application & Network Penetration Testing
+- Security Health Check (fixed-scope assessment + report)
+- Cloud Security Review (AWS, Azure, GCP) & API Security Testing
+- Compliance Gap Analysis (NIST CSF, ISO 27001, SOC 2, PCI DSS)
+- Email & Domain Security (SPF, DKIM, DMARC)
+- Incident Response Support
+- Custom Website Design, Build & Maintenance
+- IT Consulting & Support
 
 ### What I work on
 - 🔎 Incident response, Windows forensics, and threat hunting
