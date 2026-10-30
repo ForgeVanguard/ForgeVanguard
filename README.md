@@ -45,7 +45,7 @@ I've spent more than 15 years in IT. I started out repairing and building system
 | [homelab-network-guides](https://github.com/ForgeVanguard/homelab-network-guides) | Runbooks for a segmented home lab: OPNsense, MikroTik + Cisco VLAN trunks, Home Assistant IoT VLAN, Wazuh/Zabbix/Grafana monitoring |
 | [forgevanguard-site](https://github.com/ForgeVanguard/forgevanguard-site) | The ForgeVanguard Cyber Consulting website: static, fast, no tracking |
 
-More: [log-brute-force-detector](https://github.com/ForgeVanguard/log-brute-force-detector) (SSH brute-force / spray detector, Python + Bash) · [storage-benchmark](https://github.com/ForgeVanguard/storage-benchmark) · [windows-workstation-cleanup](https://github.com/ForgeVanguard/windows-workstation-cleanup) · [planner-app](https://github.com/ForgeVanguard/planner-app) (🚧 quarterly goal planner, Expo / React Native)
+More: [log-brute-force-detector](https://github.com/ForgeVanguard/log-brute-force-detector) (SSH brute-force / spray detector, Python + Bash) · [storage-benchmark](https://github.com/ForgeVanguard/storage-benchmark) · [windows-workstation-cleanup](https://github.com/ForgeVanguard/windows-workstation-cleanup) · [planner-app](https://github.com/ForgeVanguard/planner-app) (🚧 quarterly goal planner, Expo / React Native) · [skill-sprint-2026](https://github.com/ForgeVanguard/skill-sprint-2026) (Sep-Dec 2026 four-skill learning challenge)
 
 ## 🎓 Certifications and education
 
