@@ -37,10 +37,14 @@ I've spent more than 15 years in IT. I started out repairing and building system
 
 | Repo | What it is |
 | --- | --- |
-| [windows-admin-toolkit](https://github.com/ForgeVanguard/windows-admin-toolkit) | PowerShell scripts for security posture checks, patching, app updates, email-domain checks and DFIR workstation setup |
+| [windows-admin-toolkit](https://github.com/ForgeVanguard/windows-admin-toolkit) | PowerShell scripts for security posture checks, forced quality updates, app installs and updates, browser session cleanup and Intune sync |
+| [windows-hardening-kit](https://github.com/ForgeVanguard/windows-hardening-kit) | Reversible Windows workstation baseline (ASR, SMB signing, LLMNR/WDigest, firewall, lockout) with state snapshot, undo and weekly check |
+| [dfir-osint-toolkit](https://github.com/ForgeVanguard/dfir-osint-toolkit) | One-shot DFIR and OSINT workstation installers for Windows and Kali |
 | [vmware-security-homelab](https://github.com/ForgeVanguard/vmware-security-homelab) | Build an isolated VMware Workstation security lab (AD, SIEM, attacker and victim VMs) from one config file |
+| [homelab-network-guides](https://github.com/ForgeVanguard/homelab-network-guides) | Runbooks for a segmented home lab: OPNsense, MikroTik + Cisco VLAN trunks, Home Assistant IoT VLAN, Wazuh/Zabbix/Grafana monitoring |
 | [forgevanguard-site](https://github.com/ForgeVanguard/forgevanguard-site) | The ForgeVanguard Cyber Consulting website: static, fast, no tracking |
-| [planner-app](https://github.com/ForgeVanguard/planner-app) | 🚧 Quarterly goal planner and accountability app (Expo / React Native), in testing |
+
+More: [storage-benchmark](https://github.com/ForgeVanguard/storage-benchmark) · [windows-workstation-cleanup](https://github.com/ForgeVanguard/windows-workstation-cleanup) · [planner-app](https://github.com/ForgeVanguard/planner-app) (🚧 quarterly goal planner, Expo / React Native)
 
 ## 🎓 Certifications and education
 
