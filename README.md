@@ -37,6 +37,7 @@ I've spent more than 15 years in IT. I started out repairing and building system
 
 | Repo | What it is |
 | --- | --- |
+| [soc-detection-labs](https://github.com/ForgeVanguard/soc-detection-labs) | 14 SOC detection-engineering labs (SSH brute force, port scans, reverse shells, beaconing, DVWA web attacks, password spraying, LSASS, persistence, lateral movement) with SPL, KQL, EQL and Sigma mapped to MITRE ATT&CK |
 | [windows-admin-toolkit](https://github.com/ForgeVanguard/windows-admin-toolkit) | PowerShell scripts for security posture checks, forced quality updates, app installs and updates, browser session cleanup and Intune sync |
 | [windows-hardening-kit](https://github.com/ForgeVanguard/windows-hardening-kit) | Reversible Windows workstation baseline (ASR, SMB signing, LLMNR/WDigest, firewall, lockout) with state snapshot, undo and weekly check |
 | [dfir-osint-toolkit](https://github.com/ForgeVanguard/dfir-osint-toolkit) | One-shot DFIR and OSINT workstation installers for Windows and Kali |
@@ -44,7 +45,7 @@ I've spent more than 15 years in IT. I started out repairing and building system
 | [homelab-network-guides](https://github.com/ForgeVanguard/homelab-network-guides) | Runbooks for a segmented home lab: OPNsense, MikroTik + Cisco VLAN trunks, Home Assistant IoT VLAN, Wazuh/Zabbix/Grafana monitoring |
 | [forgevanguard-site](https://github.com/ForgeVanguard/forgevanguard-site) | The ForgeVanguard Cyber Consulting website: static, fast, no tracking |
 
-More: [storage-benchmark](https://github.com/ForgeVanguard/storage-benchmark) · [windows-workstation-cleanup](https://github.com/ForgeVanguard/windows-workstation-cleanup) · [planner-app](https://github.com/ForgeVanguard/planner-app) (🚧 quarterly goal planner, Expo / React Native)
+More: [log-brute-force-detector](https://github.com/ForgeVanguard/log-brute-force-detector) (SSH brute-force / spray detector, Python + Bash) · [storage-benchmark](https://github.com/ForgeVanguard/storage-benchmark) · [windows-workstation-cleanup](https://github.com/ForgeVanguard/windows-workstation-cleanup) · [planner-app](https://github.com/ForgeVanguard/planner-app) (🚧 quarterly goal planner, Expo / React Native)
 
 ## 🎓 Certifications and education
 
